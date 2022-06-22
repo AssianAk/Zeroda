@@ -29,6 +29,9 @@ public class Browser {
 		wait.until(ExpectedConditions.visibilityOf(Element));
 
 	}
+	public void test1() {
+		System.out.println("hello");
+	}
 	
 		
 	
