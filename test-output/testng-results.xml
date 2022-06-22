@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="9" total="10" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-21T23:51:10 IST" name="Default suite" finished-at="2022-06-21T23:51:26 IST" duration-ms="15766">
+    <groups>
+    </groups>
+    <test started-at="2022-06-21T23:51:10 IST" name="Default test" finished-at="2022-06-21T23:51:26 IST" duration-ms="15766">
+      <class name="Test.Testzerodahomepage">
+        <test-method is-config="true" signature="extentReports()[pri:0, instance:Test.Testzerodahomepage@52bf72b5]" started-at="2022-06-21T23:51:10 IST" name="extentReports" finished-at="2022-06-21T23:51:11 IST" duration-ms="316" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extentReports -->
+        <test-method is-config="true" signature="browser()[pri:0, instance:Test.Testzerodahomepage@52bf72b5]" started-at="2022-06-21T23:51:11 IST" name="browser" finished-at="2022-06-21T23:51:20 IST" duration-ms="9773" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser -->
+        <test-method signature="openmarketdepthTest()[pri:0, instance:Test.Testzerodahomepage@52bf72b5]" started-at="2022-06-21T23:51:20 IST" name="openmarketdepthTest" finished-at="2022-06-21T23:51:25 IST" duration-ms="4925" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openmarketdepthTest -->
+        <test-method is-config="true" signature="logic(org.testng.ITestResult)[pri:0, instance:Test.Testzerodahomepage@52bf72b5]" started-at="2022-06-21T23:51:25 IST" name="logic" finished-at="2022-06-21T23:51:25 IST" duration-ms="10" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=openmarketdepthTest status=SUCCESS method=Testzerodahomepage.openmarketdepthTest()[pri:0, instance:Test.Testzerodahomepage@52bf72b5] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logic -->
+        <test-method is-config="true" signature="flushresult()[pri:0, instance:Test.Testzerodahomepage@52bf72b5]" started-at="2022-06-21T23:51:25 IST" name="flushresult" finished-at="2022-06-21T23:51:26 IST" duration-ms="699" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flushresult -->
+      </class> <!-- Test.Testzerodahomepage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
